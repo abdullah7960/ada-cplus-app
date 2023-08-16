@@ -1,0 +1,2 @@
+
+const apikey = "sk-uxJxttknDd";
